@@ -1,0 +1,22 @@
+{
+  "name": "2_disenho_de_software_con_tdd",
+  "version": "1.0.0",
+  "description": "La descripción de los pasos para la realización de este ejemplo lo puede encontrar en:   \r [Prácticas de Launch X - creada por Carlo Gilmar](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_3/2_tdd.md#i-creaci%C3%B3n-de-un-nuevo-proyecto)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresSantiago08/Disenho_de_software_con_TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresSantiago08/Disenho_de_software_con_TDD/issues"
+  },
+  "homepage": "https://github.com/AndresSantiago08/Disenho_de_software_con_TDD#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
